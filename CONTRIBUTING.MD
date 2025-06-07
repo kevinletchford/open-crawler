@@ -7,7 +7,7 @@ Thank you for your interest in contributing! Whether you're fixing bugs, adding 
 ### 1. Fork & Clone
 
 ```bash
-git clone https://github.com/kevin-letchford/open-crawler.git
+git clone https://github.com/kevinletchford/open-crawler.git
 cd open-crawler
 ```
 
@@ -63,7 +63,7 @@ If you're fixing a bug or adding a feature, try to include a test case.
 
 ## 📝 Issues
 
-- Found a bug? [Open an issue](https://github.com/YOUR-REPO/issues/new)
+- Found a bug? [Open an issue](http://github.com/kevinletchford/open-crawler/issues/new)
 - Want to request a feature? Same process!
 - Check for existing issues before filing a new one.
 

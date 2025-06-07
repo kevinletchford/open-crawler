@@ -5,3 +5,10 @@ edition = "2024"
 license = "MIT OR Apache-2.0"
 authors = ["Kevin Letchford <kevin@letchford.co>"]
 [dependencies]
+tokio = { version = "1.45.1", features = ["full"] }
+reqwest = { version = "0.12.19", features = ["json", "gzip", "stream"] }
+scraper = "0.23.1"
+url = "2.5.4"
+futures = "0.3.31"
+rusqlite = { version = "0.36", features = ["bundled"] }
+lazy_static = "1.5.0"
